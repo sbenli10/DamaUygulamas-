@@ -34,5 +34,4 @@ ASP.NET MVC ile geliştirilmiş web tabanlı iki kişilik Dama (Checkers) oyunud
 
 Hazırlayan: Said Benli
 Tarih: 2025
-Eğitim: MCSD (766)
-Eğitmen: İsmail Çoban
+
